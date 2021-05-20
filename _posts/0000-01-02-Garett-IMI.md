@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Study the past if you want to define the future" - Confucius
 Use the left arrow to go back!
